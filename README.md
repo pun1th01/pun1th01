@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Punith 👋
 
-<!--
-**pun1th01/pun1th01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on real-time 3D web applications and interactive experiences.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌌 Low-Poly Time Sync Environment
+A real-time 3D environment where sky, sun, moon phases, and stars sync with real-world time and location.
+
+- 🌍 Real sun & moon positioning (SunCalc)
+- 🌙 Dynamic moon phases (shader-based)
+- ✨ ~18,000 star system + Milky Way rendering
+- ☁️ Procedural clouds (GLSL)
+- 🎛️ Interactive time controls (glassmorphism UI)
+
+🔗 [View Project](https://github.com/pun1th01/lowpoly-time-sync-environment)
+
+---
+
+## 🛠 Tech Stack
+- JavaScript
+- React
+- Three.js
+- WebGL / GLSL
+- Git & GitHub
+
+---
+
+## 📌 Currently Working On
+- Procedural Low-Poly World Generator
+- Advanced 3D web interactions & simulations
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/punith-p-b5239b28a
