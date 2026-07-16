@@ -50,7 +50,7 @@ A deployed Three.js web application where sky, sun, moon, and stars sync to real
 ### Procedural Low-Poly World Generator
 *In development*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/pun1th01/LowPolyWorldGen)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/pun1th01/procedural-world-generator)
 
 Seed-based procedural terrain generation system built with React Three Fiber and Three.js.
 
@@ -65,7 +65,7 @@ Seed-based procedural terrain generation system built with React Three Fiber and
 ### JeevanLocker — Medical Document Management
 *Full-stack MERN application*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/pun1th01/JeevanLocker)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/pun1th01/jeevan-locker)
 
 Secure digital medical record storage platform with role-based access control.
 
