@@ -1,67 +1,108 @@
-# Hi, I'm Punith 👋
+# Punith P
 
-Frontend Developer building real-time 3D web experiences and interactive simulations.
+Frontend Developer · 3D Web · Minecraft Modding · India
 
-I focus on performance, visual systems, and creative frontend development using Three.js and WebGL.
+Building real-time interactive experiences — from procedural 3D worlds to server-side Minecraft communication systems.
 
-🌐 Portfolio: https://pun1th01.github.io/portfolio-website/
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-teal?style=flat-square)](https://pun1th01.github.io/portfolio-website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/punith-p-b5239b28a)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/pun1th01?label=Sponsor&logo=GitHub&style=flat-square)](https://github.com/sponsors/pun1th01)
 
 ---
 
-## 🚀 Featured Project
+## Projects
 
-### 🌌 Low-Poly Time Sync Environment
+### Lipi — Fabric Minecraft Mod
+*Independent chat platform for Minecraft servers*
+
+[![Modrinth](https://img.shields.io/badge/Modrinth-Published-green?style=flat-square)](https://modrinth.com/mod/lipi)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Published-orange?style=flat-square)](https://www.curseforge.com/minecraft/mc-mods/lipi)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/pun1th01/Lipi)
+
+A server-controlled communication layer built in Java with Fabric API — running independently alongside vanilla Minecraft chat with its own UI, networking, and admin system.
+
+- Custom client-server packet architecture using Fabric's networking API
+- Dedicated chat UI with popup window, channel sidebar, local timezone timestamps
+- Server-side logging, mute system with temp mute duration, anti-spam config
+- GDPR-aware design — all data stays on the server owner's filesystem
+- Published on Modrinth and CurseForge · Alpha V3
+
+---
+
+### Low-Poly Time Sync Environment
+*Real-time 3D astronomical simulation*
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live-teal?style=flat-square)](https://pun1th01.github.io/lowpoly-time-sync-environment/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/pun1th01/lowpoly-time-sync-environment)
 
 ![Demo](https://raw.githubusercontent.com/pun1th01/lowpoly-time-sync-environment/main/assets/gif/transition.gif)
 
-A real-time 3D environment where sky, sun, moon phases, and stars sync with real-world time and location.
+A deployed Three.js web application where sky, sun, moon, and stars sync to real-world time and geolocation.
 
-### Key Highlights
-- 🌍 Real-time sun & moon positioning using SunCalc
-- 🌙 Physically-inspired moon phase rendering (shader-based)
-- ✨ ~18,000 star system with Milky Way structure
-- ☁️ Procedural volumetric clouds using GLSL (FBM noise)
-- 🎛️ Interactive time controls + geolocation support
-
-🔗 [Live Demo](https://pun1th01.github.io/lowpoly-time-sync-environment/)  
-📦 [Repository](https://github.com/pun1th01/lowpoly-time-sync-environment)
+- ~18,000 star system with Milky Way structure rendered via WebGL
+- Physically-inspired moon phase rendering using custom GLSL shaders
+- Real-time sun and moon positioning via SunCalc integration
+- Procedural volumetric clouds with FBM noise
+- Interactive time controls and geolocation support
 
 ---
 
-## 🌍 Currently Building
+### Procedural Low-Poly World Generator
+*In development*
 
-### Procedural Low-Poly World Generator 🚧
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/pun1th01/LowPolyWorldGen)
 
-- Seed-based deterministic world generation  
-- Blender → Web asset pipeline  
-- React Three Fiber integration  
-- Focus on scalable environment systems  
+Seed-based procedural terrain generation system built with React Three Fiber and Three.js.
 
----
-
-## 🛠 Tech Stack
-
-**Frontend:** JavaScript, React  
-**3D & Graphics:** Three.js, WebGL, GLSL, Blender  
-**Tools:** Git, GitHub  
+- Archetype-based mountain and terrain system with domain warping
+- Flat per-face normals with per-face color hashing for low-poly aesthetic
+- Cinematic sky dome shader with time-of-day system
+- Instanced GLB tree rendering with forest suitability detection
+- Blender → GLB asset pipeline
 
 ---
 
-## 🎯 Focus Areas
+### JeevanLocker — Medical Document Management
+*Full-stack MERN application*
 
-- Real-time 3D web rendering  
-- Interactive visual systems  
-- Performance optimization for graphics-heavy applications  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/pun1th01/JeevanLocker)
+
+Secure digital medical record storage platform with role-based access control.
+
+- JWT authentication with bcrypt password hashing
+- Role-based access: Patient, Doctor, Admin
+- Document upload pipeline with Multer — PDF, JPG, PNG support
+- Centralized audit logging — login, upload, access, share events
+- Blockchain integration architecture designed using Ethereum smart contracts
 
 ---
 
-## 📫 Connect with Me
+## Tech Stack
 
-- LinkedIn: https://www.linkedin.com/in/punith-p-b5239b28a  
-- Portfolio: https://pun1th01.github.io/portfolio-website/
+**Languages** — JavaScript (ES6+), TypeScript, Java, HTML5, CSS3
+
+**Frontend** — React, React Three Fiber, Responsive Design
+
+**3D & Graphics** — Three.js, WebGL, GLSL, Blender
+
+**Backend** — Node.js, Express.js
+
+**Database** — MongoDB, Mongoose
+
+**Modding** — Fabric API, Fabric Loom, Yarn Mappings, Minecraft 1.21.5
+
+**Tools** — Git, GitHub, JWT, REST APIs
 
 ---
 
-## ⚡ Fun Fact
+## Currently
 
-I enjoy building systems where real-world data directly influences visual environments 🌍✨
+- 4th year B.E. Computer Science @ K S Institute of Technology, Bengaluru (2023–2027)
+- Building Lipi toward Beta V1 — multi-version support, multi-channel, media sharing
+- Targeting Frontend Developer and Software Developer roles
+
+---
+
+## Connect
+
+[Portfolio](https://pun1th01.github.io/portfolio-website/) · [LinkedIn](https://www.linkedin.com/in/punith-p-b5239b28a) · [GitHub Sponsors](https://github.com/sponsors/pun1th01)
